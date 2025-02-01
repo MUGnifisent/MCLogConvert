@@ -1,0 +1,1 @@
+from .MCLogConvert_ui import Ui_MainWindow
